@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T10:58:53.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Ayu1FkE8xLylbkNBDw-d" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-18T11:03:47.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="m0E32oecOlnE3Pll1ZFo" version="13.9.9" type="github">
   <diagram id="L_JhOVF2J9dcczpxeFNC" name="Page-1">
     <mxGraphModel dx="1573" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <mxPoint x="1180" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hF53dLe3txAoutBQHYvb-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;基于蓝牙技术的密接&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hF53dLe3txAoutBQHYvb-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;基于蓝牙技术的密接&lt;br&gt;（密接技术）&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="140" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hF53dLe3txAoutBQHYvb-15" value="&lt;span style=&quot;font-size: 20px&quot;&gt;RNN深度学习优缺点&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -50,7 +50,7 @@
             <mxPoint x="1180" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hF53dLe3txAoutBQHYvb-16" value="&lt;span style=&quot;font-size: 20px&quot;&gt;基于LSTM的深度学习&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="hF53dLe3txAoutBQHYvb-16" value="&lt;span style=&quot;font-size: 20px&quot;&gt;基于LSTM的深度学习&lt;br&gt;（携带方向性的手势动作识别）&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="580" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hF53dLe3txAoutBQHYvb-20" value="&lt;span style=&quot;font-size: 20px&quot;&gt;密接游戏：&lt;br&gt;蓝牙技术判断是否密接&lt;br&gt;LSTM深度学习动作识别&lt;br&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
